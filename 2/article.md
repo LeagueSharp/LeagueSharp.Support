@@ -6,7 +6,7 @@ The following table shows a list of countries and the possible payment methods. 
 |Germany|✓|*|✓|✓|*|✓|*|✓|
 |USA|✓|*|✓|✓|*|*|*|*|
 |Korea|✓|*|✓|*|*|✓|*|*|
-|Taiwan|✓|*|✓|*|*|✓|*|*||
+|Taiwan|✓|*|✓|*|*|✓|*|*|
 |Turkey|✓|*|✓|✓|*|✓|*|*|
 |Vietnam|✓|*|✓|*|*|✓|*|*|
 
