@@ -1,0 +1,1 @@
+If your LoL client crashes when you tab out of the game you are not running League of Legends in the borderless windowed mode. In order to do this open up League of Legend’s settings, navigate to “Game” and change the “Windowed mode” to “Borderless”. You can find a gif which shows you how to do this [here](http://i.imgur.com/hL4CmnJ.gifv)

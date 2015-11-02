@@ -1,0 +1,1 @@
+To pay with Bitcoin, simply select "Bitcoin" as your prefered payment method. You will get a Bitcoin adress and the amount you need to send to it to complete your order. [If you need help to get started with Bitcoins, check out this guide.](https://bitcoin.org/en/getting-started)
