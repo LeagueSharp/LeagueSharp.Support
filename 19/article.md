@@ -1,0 +1,1 @@
+If you log into your LeagueSharp account using the loader from a different computer than before, your account will be locked for one hour and you will be unable to play. An error message with the information "Auth error" will appear as soon as you join the loading screen. There is no manual way to unlock your account, you have to wait one hour.

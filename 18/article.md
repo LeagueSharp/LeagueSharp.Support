@@ -1,0 +1,2 @@
+Download the latest LoL.exe from [here](https://www.dropbox.com/sh/m47y11elzao0iv3/AABm6lIPRBQ1ozCQxYzrHdIma?dl=0). Unzip the archive and move the “League of Legends.exe” into the following directory: <Your League of Legends installation>\GameData\Apps\LoL\Game
+Replace the existing file with the new one.
