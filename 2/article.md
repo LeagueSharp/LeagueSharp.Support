@@ -1,7 +1,7 @@
 
 The following table shows a list of countries and the possible payment methods. Keep in mind that this is not a *complete* list, we only picked the countries where the payment methods differs from the others.
 
-|.| Paypal| Alipay| Creditcard| PaySafeCard| PagSeguro| Mobiamo|Boleto Bancário| Sofort Überweisung
+| Country| Paypal| Alipay| Creditcard| PaySafeCard| PagSeguro| Mobiamo|Boleto Bancário| Sofort Überweisung
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 |Brazil|✓|✓|✓|X|✓|✓|✓|X|
 |China|✓|✓| ✓|X|X|X|X|X|
