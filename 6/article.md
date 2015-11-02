@@ -1,0 +1,3 @@
+If you want to buy a subscription using a Gift Voucher you have to redeem the Gift Voucher first. To do this, simply navigate to the [store](https://www.joduska.me/forum/store/), click on "[Redeem Gift Voucher](https://www.joduska.me/forum/store/redeem/)", enter your Redemption Code and proceed with a click on "Redeem Gift Code Voucher".
+
+After putting your desired subscription into your cart and proceeding with the checkout, you will notice a new message on the "Confirm & Pay" page stating "You have $X.XX credit. Apply credit to balance". To pay using your credit, simply click on "Apply credit to balance".  Afterwards. you will see the details of your order. You now have purchased a subscription.
