@@ -30,3 +30,18 @@ proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 | col 1 is |  left-aligned | $1600 |
 | col 2 is |    centered   |   $12 |
 | col 3 is | right-aligned |    $1 |
+
+ 1. 1
+ 2. 2
+ 3. 3
+ 4. 4
+ 5. 5
+
+
+asd
+
+ - a
+ - b
+ - c
+ - d
+
