@@ -1,1 +1,0 @@
-If you have a **verified** PayPal account, you can just select PayPal as your prefered payment method and proceed with your purchase. However, in case that your PayPal account is **not verified** you need to purchase a Gift Voucher (link here on how to purchase a Gift Voucher).
