@@ -1,6 +1,8 @@
 You can download the PlaySharp setup following [this](http://www.joduska.me/forum/forum/7-l-download/) link.
 
+
 There are several programs which are required in order for PlaySharp to work flawlessly:
+
 
  - [Microsoft .NET Framework 4.6](http://go.microsoft.com/fwlink/?LinkId=528259)
  - [Visual C++ Redistributable 2015 (x86)](http://download.microsoft.com/download/9/3/F/93FCF1E7-E6A4-478B-96E7-D4B285925B00/vc_redist.x86.exe)
