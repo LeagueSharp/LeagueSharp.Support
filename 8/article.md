@@ -4,4 +4,6 @@ On patches the compensation amount will be equivalent to the amount of days that
 ----------
 
 ###How do I redeem my compensation days?
-You can find the compensation area here: [Click](https://www.joduska.me/forum/index.php?app=core&module=usercp&tab=compensation)!
+
+You can redeem your compensation days from your [compensation area](https://www.joduska.me/forum/index.php?app=core&module=usercp&tab=compensation) page.
+
