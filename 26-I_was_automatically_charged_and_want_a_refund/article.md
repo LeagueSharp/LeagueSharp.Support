@@ -1,0 +1,3 @@
+In case you failed to cancel your LeagueSharp subscription and you were automatically charged for it, feel free to [open a ticket](https://www.joduska.me/forum/index.php?app=tickets&module=tickets&section=post&do=new_ticket). We will give you a refund in case you have not used your subscription yet (zero games played).
+
+Please read this article to assure that you are able to cancel your subscription in the future.

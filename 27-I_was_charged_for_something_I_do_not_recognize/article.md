@@ -1,0 +1,3 @@
+If you notice a payment in your PayPal history you do not recognize, please visit the [Client Area](https://www.joduska.me/forum/index.php?app=nexus&module=clients) of your LeagueSharp account first and compare the listed subscriptions there with the payments made through your account. Payments towards LeagueSharp will be listed as payments to "**Chachani, Misti y Pichu Pichu SRL**".
+
+In case you still think that something went wrong, feel free to open a [support ticket](https://www.joduska.me/forum/index.php?app=tickets&module=tickets&section=post&do=new_ticket) and include **sufficient** information like the transaction ID.
