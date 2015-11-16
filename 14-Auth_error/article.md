@@ -1,4 +1,4 @@
-There are different reasons why your HWID got locked. In most cases it is because you logged into your LeagueSharp account from a **different** computer. If you are unsure why your HWID has been locked and you want to know why, visit your (account status page)[https://www.joduska.me/forum/index.php?app=core&module=usercp&tab=leaguesharp] after trying to inject LeagueSharp. The following table lists the different, possible statuses, the reasons for them as well as a solution.
+There are different reasons why your HWID got locked. In most cases it is because you logged into your LeagueSharp account from a **different** computer. If you are unsure why your HWID has been locked and you want to know why, visit your [account status page](https://www.joduska.me/forum/index.php?app=core&module=usercp&tab=leaguesharp) after trying to inject LeagueSharp. The following table lists the different, possible statuses, the reasons for them as well as a solution.
 
 |Error|Reason|Solution
 |:-|:-|:-
