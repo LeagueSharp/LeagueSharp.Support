@@ -1,3 +1,3 @@
-If you encounter an issue while buying a LeagueSharp subscription, be it an error from Paymentwall or you did not receive your subscription after 24 hours, please check if your payment went through successfully and reassure yourself that it did not get canceled by your bank. 
+If you encounter an issue while buying a PlaySharp subscription, be it an error from Paymentwall or you did not receive your subscription after 24 hours, please check if your payment went through successfully and make sure that it did not get canceled by your bank. 
 Please keep in mind that some transactions through Paymentwall can take up to 5 business days (not including weekends or holidays).
-If everything on your side is fine, please open a [support ticket](https://www.joduska.me/forum/index.php?app=tickets&module=tickets&section=post&do=new_ticket) and include your transaction details.
+If everything on your side is fine, please open a [support ticket](https://www.joduska.me/forum/index.php?app=tickets&module=tickets&section=post&do=new_ticket) and include your transaction details, such as the Transaction ID.
