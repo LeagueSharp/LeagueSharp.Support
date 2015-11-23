@@ -4,12 +4,12 @@ This was tested with Windows 7 (64 bit) and Windows 8 (64 bit). It might work wi
  2. Delete every file which starts with "d3dx9_" (make a backup to be sure)
  3. Go to your SysWOW64 folder (%windir%\SysWOW64)
  4. Repeat this step from 2
- 5. Reinstall Download DirectX (June 2010) here[DirectX](http://download.microsoft.com/download/8/4/A/84A35BF1-DAFE-4AE8-82AF-AD2AE20B6B14/directx_Jun2010_redist.exe)
+ 5. Reinstall Download DirectX (June 2010) here [DirectX](http://download.microsoft.com/download/8/4/A/84A35BF1-DAFE-4AE8-82AF-AD2AE20B6B14/directx_Jun2010_redist.exe)
  7. Run it as administrator
  8. Accept license agreement
  9. Select extraction folder. DirectX won't be installed there, it's just a temporary folder for installation files
  10. Wait for extraction to finish
- 11. Open extraction folder, find DXsetup.exe in this folder. Run it as administrator
+ 11. Open extraction folder, find [DXsetup.exe] in this folder. Run it as administrator
  12. Accept license agreement, proceed through installation
 
 Reboot your computer.
