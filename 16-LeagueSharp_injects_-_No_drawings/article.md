@@ -9,7 +9,7 @@ This was tested with Windows 7 (64 bit) and Windows 8 (64 bit). It might work wi
  8. Accept license agreement
  9. Select extraction folder. DirectX won't be installed there, it's just a temporary folder for installation files
  10. Wait for extraction to finish
- 11. Open extraction folder, find DXsetup.exe in this folder. Run it as administrator
+ 11. Open extraction folder, find DXsetup.exe in that folder. Run it as administrator
  12. Accept license agreement, proceed through installation
 
 Reboot your computer.
