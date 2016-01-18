@@ -11,9 +11,3 @@ The following table lists the different, possible statuses, the reasons for them
 |GAMELIMIT|The **game limit** (two for free users and 50 for subscribers) is reached|[Purchase a subscription](https://www.joduska.me/forum/index.php?app=infotickets&page=article&id=3#/article) (50 games per day) or [purchase a botting license](https://www.joduska.me/forum/index.php?app=infotickets&page=article&id=7#/article) (no game limit)
 |FREEUSER|LeagueSharp is **disabled** for free users due to the recent update|Either wait **three days** (beginning from the day of the update) or [purchase a subscription](https://www.joduska.me/forum/index.php?app=infotickets&page=article&id=3#/article)
 |RANKEDLIMIT|Free users are **unable** to play **ranked games**|[Purchase a subscription](https://www.joduska.me/forum/index.php?app=infotickets&page=article&id=3#/article)
-
-If you've gotten a "Error Unknown" Please try the following things.
- 1. Close your Leaguesharp Loader.exe
- 2. Go to [Account status](https://www.joduska.me/forum/index.php?app=core&module=usercp&tab=leaguesharp)
- 3. Click the big letters that say "(Change Key)"
-If problem remains please flush your DNS cache with [DNSFlush.bat](https://www.dropbox.com/s/26eqcnm25v9cq1c/FlushDNS.bat?dl=0)
