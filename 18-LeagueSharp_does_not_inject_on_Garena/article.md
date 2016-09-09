@@ -1,2 +1,18 @@
-Download the latest LoL.exe from [here](https://www.dropbox.com/sh/m47y11elzao0iv3/AABm6lIPRBQ1ozCQxYzrHdIma?dl=0). Unzip the archive and move the “League of Legends.exe” into the following directory: <Your League of Legends installation>\GameData\Apps\LoL\Game
-Replace the existing file with the new one.
+Injection is the process which starts when your League of Legends.exe loads after champion selection. This is when assemblies are set to work and if the process fails, no scripts will be able to be used until it succeeds. To start with, this article is made to suggest possible solutions to people whose injection **doesn't start at all** or **starts but fails** for some reason. If your injection starts you can judge by the appearance of Windows Command window right after your game starts loading (*make sure to have "Show Console" enabled in loader settings*). It will include all information about libraries, assemblies loaded, settings and some other useful information. If this window appears - your injection is started.
+
+When LeagueSharp fails injecting there might be a lots of possible causes behind this issue. In this article the most common ones will be reviewed, so if you will not find a working fix for your case here, please submit a detailed report of your issue to our [Troubleshooting section](https://www.joduska.me/forum/forum/94-general/) so we can find a way to help you!
+
+First of all, please make sure your LeagueSharp is **installed correctly**. We have an article describing the process so you might want to check it out:
+> [Installing LeagueSharp](https://www.joduska.me/forum/index.php?app=infotickets&page=article&id=13#article)
+
+Secondly, please make sure your LeagueSharp folder (*after loader's first launch folder name will get randomized, turning it into a random combination of letters and numbers*) is included to your antiviruses whitelist. It by no means manifests that LeagueSharp may cause damage to your computer or data, that's just the way injection works that can be presumed to be a malicious by an antivirus software. After doing so, please restart the loader and go to the **Settings** tab and press "**Clear cache**" ([where?](https://s.put.re/in5qd5J.png)).
+
+The next step will be to make loader recognize the League of Legends game. Please check out LeagueSharp tab with your nickname on it, and find a **Game Version** line ([where?](https://s.put.re/W69uAPc.png)). If it is the same as the current game version, LeagueSharp will inject. Your problem might be that you forgot to check your assembly profiles. In this case, head to **Profiles** tab and put a check next to profiles with assemblies you would like to use ([where?](https://s.put.re/HBiWSWn.png)). If you are in game, press the reload key (*F5 by default*).
+
+The other step requires you to **disable any software which uses overlay interfaces** in League of Legends. Are you using a Curse Voice? A loading screen overlay to see detailed information about your opponents? Please disable it or check if you can disable an overlay feature in such software as it interferes with LeagueSharp injection and leads to the issue.
+
+The injection will also not start when there are certain problems with your LeagueSharp account, for example, a **HWID lock**. It happens when you have recently (*within 1 hour*) used your LeagueSharp account on one computer and then wanted to use it on another one. This is made to prevent people from sharing their accounts and one simultaneously on two different computers. **HWID lock lasts for 1 hour**, so if you came across such issue - please wait for that time period and you will be able to use your account again without an issue. More issues related with authentication process are described in the following article:
+> [Authentication Error](https://www.joduska.me/forum/index.php?app=infotickets&page=article&id=14#article)
+###Useful articles
+> [More in-depth guide on injection issues](https://www.joduska.me/forum/topic/126916-multi-language-how-to-fix-injection-issues/)
+> [New Loader Guide](https://www.joduska.me/forum/topic/221357-new-loader-guide/)
