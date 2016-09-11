@@ -1,4 +1,4 @@
-You can download the PlaySharp setup following [this](http://www.joduska.me/forum/forum/7-l-download/) link.
+You can download the PlaySharp setup following [this link](https://www.joduska.me/forum/forum/177-download-playsharp/).
 
 There are several programs which are required in order for PlaySharp to work flawlessly:
 
