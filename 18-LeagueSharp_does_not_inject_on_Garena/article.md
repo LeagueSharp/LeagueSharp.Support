@@ -13,6 +13,7 @@ The other step requires you to **disable any software which uses overlay interfa
 
 The injection will also not start when there are certain problems with your LeagueSharp account, for example, a **HWID lock**. It happens when you have recently (*within 1 hour*) used your LeagueSharp account on one computer and then wanted to use it on another one. This is made to prevent people from sharing their accounts and one simultaneously on two different computers. **HWID lock lasts for 1 hour**, so if you came across such issue - please wait for that time period and you will be able to use your account again without an issue. More issues related with authentication process are described in the following article:
 > [Authentication Error](https://www.joduska.me/forum/index.php?app=infotickets&page=article&id=14#article)
+
 ###Useful articles
 > [More in-depth guide on injection issues](https://www.joduska.me/forum/topic/126916-multi-language-how-to-fix-injection-issues/)
 > [New Loader Guide](https://www.joduska.me/forum/topic/221357-new-loader-guide/)
