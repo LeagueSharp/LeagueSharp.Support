@@ -6,4 +6,4 @@ This error remains for 1 hour since the last injection, so if you want to play o
 If you want to be able to run multiple instances using the same account, you can use virtual machine to emulate the Windows environment keeping the same Hardware ID, but keep in mind that you only have a limited amount of games per day, so running multiple games at once may drain the count pretty fast. If you want to use PlaySharp for botting purposes, please consider getting the Botting License.
 
 > [Authentication Errors](https://www.joduska.me/forum/index.php?app=infotickets&page=article&id=14#article)
-[Botting License](https://www.joduska.me/forum/index.php?app=infotickets&page=article&id=7#article)
+> [Botting License](https://www.joduska.me/forum/index.php?app=infotickets&page=article&id=7#article)
