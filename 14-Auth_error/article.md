@@ -5,9 +5,9 @@ The following table lists the different, possible statuses, the reasons for them
 
 |Error|Reason|Solution
 |:-|:-|:-
-|HWID|You've logged into your account from a **different** computer|Wait **one hour** (the process is automatic)
+|HWID|You've logged into your account from a **different** computer|Wait **one hour** (the process is automatic). Change **login credentials and Auth Key** if access was unauthorized
 |LOGINFAILED|Your login credentials are **wrong**|**Relog** into the loader and/or [**change** your password](https://www.joduska.me/forum/index.php?app=infotickets&page=article&id=12#/article)
 |BANNED|We **restricted** your access to LeagueSharp|If you think this is a mistake, [open a support ticket](https://www.joduska.me/forum/index.php?app=tickets&module=tickets&section=post&do=new_ticket)
-|GAMELIMIT|The **game limit** (two for free users and 50 for subscribers) is reached|[Purchase a subscription](https://www.joduska.me/forum/index.php?app=infotickets&page=article&id=3#/article) (50 games per day) or [purchase a botting license](https://www.joduska.me/forum/index.php?app=infotickets&page=article&id=7#/article) (no game limit)
+|GAMELIMIT|The **game limit** (2 for free users and 50 for subscribers) is reached|[Purchase a subscription](https://www.joduska.me/forum/index.php?app=infotickets&page=article&id=3#/article) (50 games per day) or wait for **game limit reset** (every 24 hours)
 |FREEUSER|LeagueSharp is **disabled** for free users due to the recent update|Either wait **three days** (beginning from the day of the update) or [purchase a subscription](https://www.joduska.me/forum/index.php?app=infotickets&page=article&id=3#/article)
 |RANKEDLIMIT|Free users are **unable** to play **ranked games**|[Purchase a subscription](https://www.joduska.me/forum/index.php?app=infotickets&page=article&id=3#/article)
